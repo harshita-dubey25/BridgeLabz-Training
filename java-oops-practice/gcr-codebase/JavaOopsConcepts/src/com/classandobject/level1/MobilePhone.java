@@ -1,0 +1,20 @@
+package com.classandobject.level1;
+
+public class MobilePhone {
+	
+		String brand;
+		String model;
+		double price;
+		
+		MobilePhone(String brand,String model,double price){
+			this.brand = brand;
+			this.model = model;
+			this.price = price;
+		}
+		public void diplayMobile() {
+			System.out.println("Brand of mobile: "+brand);
+			System.out.println("Model of mobile: "+model);
+			System.out.println("Price of mobile: "+price);
+			System.out.println("------------------------------");
+		}
+}
