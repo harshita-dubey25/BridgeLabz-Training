@@ -1,5 +1,5 @@
 import java.util.*;
-public class PhoneRechargeSimulator{
+public class PhoneRecharge{
 	static void displayOffers(char c){
 		char op = c;
 		switch(op){
