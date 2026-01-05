@@ -1,4 +1,4 @@
-package com.linkedlist.stackandqueue.queueimplementation;
+package com.stackandqueue.queueimplementation;
 
 public class QueueMain {
     public static void main(String[] args) {
