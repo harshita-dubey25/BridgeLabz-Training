@@ -1,6 +1,6 @@
 package com.linkedlist.roundrobin;
 
-public class RoundRobinScheduler {
+public class RoundRobinSceduler {
     private ProcessNode head = null;
     private ProcessNode tail = null;
     private int size = 0;
