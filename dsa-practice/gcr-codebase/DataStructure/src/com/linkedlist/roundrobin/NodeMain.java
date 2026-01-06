@@ -4,7 +4,7 @@ import java.util.*;
 public class NodeMain {
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        RoundRobinScheduler scheduler = new RoundRobinScheduler();
+        RoundRobinSceduler scheduler = new RoundRobinSceduler();
 
         System.out.print("Enter Time Quantum: ");
         int quantum = sc.nextInt();
