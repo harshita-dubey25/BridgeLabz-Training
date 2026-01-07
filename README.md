@@ -53,7 +53,7 @@ BridgeLabz-Training/
 > **Version Control:** Practiced adding and committing files to GitHub.  
 > **Coding Practice:** Solved basic Java programs and pushed the code to GitHub.
 
-[Basic Java Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/programming-prerequisit)
+[Basic Java Programs](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
 ### Day 3 – Git Practice & Basic Java Programs  
 **Date:** 18-Dec-2025
