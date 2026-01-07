@@ -71,7 +71,7 @@ BridgeLabz-Training/
 > **Practice:** Solved problems on control flow.  
 > **Coding Practice:** Implemented programs related to control flow.
 
-**Code:** [Control Flow Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+**Code:** [Control Flow Programs](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ### Day 5 – Arrays  
 **Date:** 20-Dec-2025
