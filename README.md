@@ -106,7 +106,7 @@ BridgeLabz-Training/
 > Solved extra practice problems based on bult-in functions  
 > Solved extra practice problem based on methods.  
 
-**Code:** [Extras]()
+**Code:** [Extras](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ### Day 9 – Scenario Based Questions  
 **Date:** 25 Dec 2025
