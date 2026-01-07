@@ -160,7 +160,7 @@ BridgeLabz-Training/
 > Studied object modeling  
 > Studied design principles  
 
-**Code:** [Object modeling]()  
+**Code:** [Object modeling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)  
 
 > Solved scenario based questions based on:  
 - Temperature Logger 
@@ -169,7 +169,7 @@ BridgeLabz-Training/
 - Movie Ticket Booking App 
 - Rohan’s Library Reminder App
 
-**Code Link:** [Oops-Scenario Based]()
+**Code Link:** [Core-java-Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 5 – Inheritance  
 **Date:** 31 Dec 2025
