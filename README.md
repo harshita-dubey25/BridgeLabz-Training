@@ -134,7 +134,7 @@ BridgeLabz-Training/
 > Studied use of getter and setter  
 > Solved programming questions and pushed codes  
 
-**Code:** [Constructor and instance variables]()  
+**Code:** [Constructor and instance variables](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/contructorandinstancevariables/level1)  
 
 > Solved scenario based questions of core java programming  
 
