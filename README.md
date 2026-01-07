@@ -71,7 +71,7 @@ BridgeLabz-Training/
 > **Practice:** Solved problems on control flow.  
 > **Coding Practice:** Implemented programs related to control flow.
 
-**Code:** [Control Flow Programs](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+**Code:** [Control Flow Programs](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ### Day 5 – Arrays  
 **Date:** 20-Dec-2025
@@ -80,7 +80,7 @@ BridgeLabz-Training/
 > **Practice:** Solved practice problems on arrays.  
 > **Coding Practice:** Implemented array programs.
 
-**Code:** [Arrays](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+**Code:** [Arrays](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ### Day 6 – Methods in Java  
 **Date:** 22-Dec-2025
@@ -89,7 +89,7 @@ BridgeLabz-Training/
 > **Practice:** Solved practice problems on methods.  
 > **Coding Practice:** Implemented programs using methods.
 
-**Code:** [Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+**Code:** [Methods](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ### Day 7 – Strings in Java  
 **Date:** 23 Dec 2025
@@ -97,7 +97,7 @@ BridgeLabz-Training/
 > Studied java strings  
 > Solved practice problem based on string.  
 
-**Code:** [Strings](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+**Code:** [Strings](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ### Day 8 – Date and Time Concept and Built-in Functions in Java  
 **Date:** 24 Dec 2025
@@ -106,7 +106,7 @@ BridgeLabz-Training/
 > Solved extra practice problems based on bult-in functions  
 > Solved extra practice problem based on methods.  
 
-**Code:** [Extras](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+**Code:** [Extras](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ### Day 9 – Scenario Based Questions  
 **Date:** 25 Dec 2025
@@ -115,7 +115,7 @@ BridgeLabz-Training/
 > - The Coffee Counter Chronicles  
 > - Maya’s BMI Fitness Tracker  
 
-**Code:** [Code Link](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+**Code:** [Code Link](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ## Week 2 – Object Oriented Programming
 
@@ -125,7 +125,7 @@ BridgeLabz-Training/
 > Studied fundamentals of objec oriented programming  
 > Solved programming questions based on object and classes  
 
-**Code:** [Classes and objects](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+**Code:** [Classes and objects]()
 
 ### Day 2 – Constructors, Instance and Class Variables, Access Modifiers  
 **Date:** 27 Dec 2025
@@ -134,25 +134,25 @@ BridgeLabz-Training/
 > Studied use of getter and setter  
 > Solved programming questions and pushed codes  
 
-**Code:** [Constructor and instance variables](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructorandinstancevariables)  
+**Code:** [Constructor and instance variables]()  
 
 > Solved scenario based questions of core java programming  
 
-**Code:** [Scenario based questions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Code:** [Scenario based questions]()
 
 ### Day 3 – This, Static, Final Keywords and instanceof Operator  
 **Date:** 29 Dec 2025
 
 > Studied this, static, final keywords and instanceof operator  
 
-**Code:** [Keywords](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords/level1)  
+**Code:** [Keywords]()  
 
 > Solved scenario based questions on core java concepts  
 - Shopkeeper Dashboard
 - Parking Lot
 - Number Guessing Game, and more...  
 
-**Scenario Based:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Scenario Based:** [Scenario-Based]()
 
 ### Day 4 – Object Oriented Design Principles  
 **Date:** 30 Dec 2025
@@ -160,7 +160,7 @@ BridgeLabz-Training/
 > Studied object modeling  
 > Studied design principles  
 
-**Code:** [Object modeling](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectorienteddesign)  
+**Code:** [Object modeling]()  
 
 > Solved scenario based questions based on:  
 - Temperature Logger 
@@ -169,7 +169,7 @@ BridgeLabz-Training/
 - Movie Ticket Booking App 
 - Rohan’s Library Reminder App
 
-**Code Link:** [Oops-Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Code Link:** [Oops-Scenario Based]()
 
 ### Day 5 – Inheritance  
 **Date:** 31 Dec 2025
@@ -177,7 +177,7 @@ BridgeLabz-Training/
 > Studied Inheritance  
 > Solved multiple questions and pushed codes to Github  
 
-**Code:** [Inheritance](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+**Code:** [Inheritance]()
 
 > Solved scenario based questions based on:  
 - Digital Watch Simulation  
@@ -186,14 +186,14 @@ BridgeLabz-Training/
 - Bus Route Distance Tracker  
 - Festival Lucky Draw   
 
-**Code:** [Scenario-Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Code:** [Scenario-Based]()
 
 ### Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
 **Date:** 01 Jan 2026
 
 > Studied the concepts of Encapsulation, Interface, Abstract classes, Polymorphism  
 
-**Code:** [Encapsulation Abstract classes and polymorphism](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+**Code:** [Encapsulation Abstract classes and polymorphism]()
 
 ## Week 3 – Data Structure and Algorithms
 
@@ -204,7 +204,7 @@ BridgeLabz-Training/
 > Introduction to Data Structure  
 > Studied Linked List  
 
-**Code:** [Linked List](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/linkedlist)
+**Code:** [Linked List]()
 
 ### Day 2 – Stack, Queue, Hashmap and Hashing Function  
 **Date:** 03 Jan 2026
@@ -212,16 +212,15 @@ BridgeLabz-Training/
 > Studied stack, queue, hashmap and hash functions  
 > Solved questions and pushed codes to Github  
 
-**Code:** [Stack and Queue](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/stack)  
-**Code:** [Hash map](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashmap)
-**Code:** [Hash set](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/hashset/longestconsecutivesequence)
+**Code:** [Stack and Queue]()  
+**Code:** [Hash map]()
 
 > Solved scenario based questions on OOPs:  
 - Hospital Patient Management System  
 - Vehicle Rental Application  
 - University Course Enrollment System  
 
-**Code:** [Scenario based questions](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Code:** [Scenario based questions]()
 
 ### Day 3 – Scenario Based Questions Continued  
 **Date:** 04 Jan 2026
@@ -232,7 +231,7 @@ BridgeLabz-Training/
 - "CabbyGo – A Ride-Hailing App in the Making"  
 - "MyBank – Managing Customer Accounts"  
 
-**Code:** [Scenario Based](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased)
+**Code:** [Scenario Based]()
 
 ### Day 5 – Sorting Algorithms  
 **Date:** 05 Jan 2026
@@ -240,13 +239,13 @@ BridgeLabz-Training/
 > Studied Sorting algorithms  
 > Solved questions based on various algorithms  
 
-**Code:** [Sorting Algorithms](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/dsa/sorting)
+**Code:** [Sorting Algorithms]()
 
 ### Day 6 – Scenario Based Questions  
 **Date:** 05 Jan 2026
 
 > Solved scenario based questions:  
 - CampusConnect – College Information System
-  [Code:](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/collegeinformationsystem) 
+  [Code:]() 
 - SwiftCart – The Grocery Shopping App
-- [Code](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBasedConcepts/src/com/oopsscenariobased/groceryshoppingapp)
+- [Code]()
