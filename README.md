@@ -212,8 +212,8 @@ BridgeLabz-Training/
 > Studied stack, queue, hashmap and hash functions  
 > Solved questions and pushed codes to Github  
 
-**Code:** [Stack and Queue]()  
-**Code:** [Hash map]()
+**Code:** [Stack and Queue](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/stackandqueue)  
+**Code:** [Hash map](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/hashmap)
 
 > Solved scenario based questions on OOPs:  
 - Hospital Patient Management System  
