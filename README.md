@@ -220,7 +220,7 @@ BridgeLabz-Training/
 - Vehicle Rental Application  
 - University Course Enrollment System  
 
-**Code:** [Scenario based questions]()
+**Code:** [Scenario based questions](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com)
 
 ### Day 3 – Scenario Based Questions Continued  
 **Date:** 04 Jan 2026
@@ -231,7 +231,7 @@ BridgeLabz-Training/
 - "CabbyGo – A Ride-Hailing App in the Making"  
 - "MyBank – Managing Customer Accounts"  
 
-**Code:** [Scenario Based]()
+**Code:** [Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com)
 
 ### Day 5 – Sorting Algorithms  
 **Date:** 05 Jan 2026
@@ -239,7 +239,7 @@ BridgeLabz-Training/
 > Studied Sorting algorithms  
 > Solved questions based on various algorithms  
 
-**Code:** [Sorting Algorithms]()
+**Code:** [Sorting Algorithms](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/sorting)
 
 ### Day 6 – Scenario Based Questions  
 **Date:** 05 Jan 2026
