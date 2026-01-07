@@ -241,11 +241,44 @@ BridgeLabz-Training/
 
 **Code:** [Sorting Algorithms](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/sorting)
 
-### Day 6 – Scenario Based Questions  
-**Date:** 05 Jan 2026
-
 > Solved scenario based questions:  
 - CampusConnect – College Information System
-  [Code:]() 
+  [Code:](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/campusconnect) 
 - SwiftCart – The Grocery Shopping App
+- [Code](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/swiftcart)
+
+### Day 6 – Searching algorithms and StringBuilder, StringBuffer, InpurStream, FileReader  
+**Date:** 06 Jan 2026
+
+> Studied Searching algorithms
+> Studied StringBuilder, StringBuffer
+> Studied InputStreamReader and FileReader
+> Solved questions based on various algorithms 
+
+**Code:**[Linear Search](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/LinearSearch)
+**Code:**[Binary Search](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/binarysearch)
+**Code:**[String]()
+**Code:**[File and InputStreamReader]()
+
+> Solved scenario based questions:  
+- FitTrack
+- [Code:]() 
+- EduMentor
 - [Code]()
+- PetPal
+- [Code:]()
+- EventCase
+- [Code:]()
+
+## Week 4 – Data Structure and Algorithms
+
+### Day 1 – Solved scenario-based question on Oops  
+**Date:** 07 Jan 2026
+
+> Revised oops concepts and solved questions
+- LoanBuddy
+- [Code:]()
+- BookBazar
+- [Code:]() 
+
+
