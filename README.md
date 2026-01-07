@@ -97,7 +97,7 @@ BridgeLabz-Training/
 > Studied java strings  
 > Solved practice problem based on string.  
 
-**Code:** [Strings](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+**Code:** [Strings](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ### Day 8 – Date and Time Concept and Built-in Functions in Java  
 **Date:** 24 Dec 2025
@@ -106,7 +106,7 @@ BridgeLabz-Training/
 > Solved extra practice problems based on bult-in functions  
 > Solved extra practice problem based on methods.  
 
-**Code:** [Extras](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+**Code:** [Extras]()
 
 ### Day 9 – Scenario Based Questions  
 **Date:** 25 Dec 2025
