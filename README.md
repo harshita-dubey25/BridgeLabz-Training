@@ -125,7 +125,7 @@ BridgeLabz-Training/
 > Studied fundamentals of objec oriented programming  
 > Solved programming questions based on object and classes  
 
-**Code:** [Classes and objects]()
+**Code:** [Classes and objects](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ### Day 2 – Constructors, Instance and Class Variables, Access Modifiers  
 **Date:** 27 Dec 2025
@@ -134,25 +134,25 @@ BridgeLabz-Training/
 > Studied use of getter and setter  
 > Solved programming questions and pushed codes  
 
-**Code:** [Constructor and instance variables]()  
+**Code:** [Constructor and instance variables](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/contructorandinstancevariables/level1)  
 
 > Solved scenario based questions of core java programming  
 
-**Code:** [Scenario based questions]()
+**Code:** [Scenario based questions](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 3 – This, Static, Final Keywords and instanceof Operator  
 **Date:** 29 Dec 2025
 
 > Studied this, static, final keywords and instanceof operator  
 
-**Code:** [Keywords]()  
+**Code:** [Keywords](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oopskeywords)  
 
 > Solved scenario based questions on core java concepts  
 - Shopkeeper Dashboard
 - Parking Lot
 - Number Guessing Game, and more...  
 
-**Scenario Based:** [Scenario-Based]()
+**Scenario Based:** [Scenario-Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 4 – Object Oriented Design Principles  
 **Date:** 30 Dec 2025
@@ -160,7 +160,7 @@ BridgeLabz-Training/
 > Studied object modeling  
 > Studied design principles  
 
-**Code:** [Object modeling]()  
+**Code:** [Object modeling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)  
 
 > Solved scenario based questions based on:  
 - Temperature Logger 
@@ -169,7 +169,7 @@ BridgeLabz-Training/
 - Movie Ticket Booking App 
 - Rohan’s Library Reminder App
 
-**Code Link:** [Oops-Scenario Based]()
+**Code Link:** [Core-java-Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 5 – Inheritance  
 **Date:** 31 Dec 2025
@@ -177,7 +177,7 @@ BridgeLabz-Training/
 > Studied Inheritance  
 > Solved multiple questions and pushed codes to Github  
 
-**Code:** [Inheritance]()
+**Code:** [Inheritance](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 > Solved scenario based questions based on:  
 - Digital Watch Simulation  
@@ -186,14 +186,14 @@ BridgeLabz-Training/
 - Bus Route Distance Tracker  
 - Festival Lucky Draw   
 
-**Code:** [Scenario-Based]()
+**Code:** [Scenario-Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
 **Date:** 01 Jan 2026
 
 > Studied the concepts of Encapsulation, Interface, Abstract classes, Polymorphism  
 
-**Code:** [Encapsulation Abstract classes and polymorphism]()
+**Code:** [Encapsulation Abstract classes and polymorphism](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
 ## Week 3 – Data Structure and Algorithms
 
@@ -204,7 +204,7 @@ BridgeLabz-Training/
 > Introduction to Data Structure  
 > Studied Linked List  
 
-**Code:** [Linked List]()
+**Code:** [Linked List](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/linkedlist)
 
 ### Day 2 – Stack, Queue, Hashmap and Hashing Function  
 **Date:** 03 Jan 2026
