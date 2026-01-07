@@ -62,7 +62,7 @@ BridgeLabz-Training/
 > **Operators & Inputs:** Practiced operators and user inputs.  
 > **Coding Practice:** Solved programs and pushed code to GitHub.
 
-**Code:** [Programming Elements](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+**Code:** [Programming Elements](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ### Day 4 – Java Control Flow Programs  
 **Date:** 19-Dec-2025
