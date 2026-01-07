@@ -193,7 +193,7 @@ BridgeLabz-Training/
 
 > Studied the concepts of Encapsulation, Interface, Abstract classes, Polymorphism  
 
-**Code:** [Encapsulation Abstract classes and polymorphism]()
+**Code:** [Encapsulation Abstract classes and polymorphism](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
 ## Week 3 – Data Structure and Algorithms
 
