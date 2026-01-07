@@ -177,7 +177,7 @@ BridgeLabz-Training/
 > Studied Inheritance  
 > Solved multiple questions and pushed codes to Github  
 
-**Code:** [Inheritance]()
+**Code:** [Inheritance](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 > Solved scenario based questions based on:  
 - Digital Watch Simulation  
@@ -186,7 +186,7 @@ BridgeLabz-Training/
 - Bus Route Distance Tracker  
 - Festival Lucky Draw   
 
-**Code:** [Scenario-Based]()
+**Code:** [Scenario-Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism  
 **Date:** 01 Jan 2026
