@@ -243,9 +243,9 @@ BridgeLabz-Training/
 
 > Solved scenario based questions:  
 - CampusConnect – College Information System
-  [Campus Connect:](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/campusconnect) 
+- **Code:** [Campus Connect:](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/campusconnect) 
 - SwiftCart – The Grocery Shopping App
-- [SwiftCart](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/swiftcart)
+- **Code:** [SwiftCart](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/swiftcart)
 
 ### Day 6 – Searching algorithms and StringBuilder, StringBuffer, InpurStream, FileReader  
 **Date:** 06 Jan 2026
