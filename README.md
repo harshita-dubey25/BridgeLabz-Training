@@ -89,7 +89,7 @@ BridgeLabz-Training/
 > **Practice:** Solved practice problems on methods.  
 > **Coding Practice:** Implemented programs using methods.
 
-**Code:** [Methods](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+**Code:** [Methods](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ### Day 7 – Strings in Java  
 **Date:** 23 Dec 2025
