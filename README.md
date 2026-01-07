@@ -80,7 +80,7 @@ BridgeLabz-Training/
 > **Practice:** Solved practice problems on arrays.  
 > **Coding Practice:** Implemented array programs.
 
-**Code:** [Arrays](https://github.com/vanshika-dubey13/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+**Code:** [Arrays](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ### Day 6 – Methods in Java  
 **Date:** 22-Dec-2025
