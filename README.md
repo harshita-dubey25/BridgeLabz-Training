@@ -125,7 +125,7 @@ BridgeLabz-Training/
 > Studied fundamentals of objec oriented programming  
 > Solved programming questions based on object and classes  
 
-**Code:** [Classes and objects]()
+**Code:** [Classes and objects](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ### Day 2 – Constructors, Instance and Class Variables, Access Modifiers  
 **Date:** 27 Dec 2025
