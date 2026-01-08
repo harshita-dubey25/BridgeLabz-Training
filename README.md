@@ -40,6 +40,7 @@
 > Studied file handling and solved questions.  
 > Pushed codes to GitHub  
 
-**Code:** [Searching Algorithms]()
-**Code:** [String]()
-**Code:** [File Handling]()
+**Code:** [Linear Search](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/LinearSearch)
+**code:**[Binary Search](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/binarysearch)
+**Code:** [String](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/string)
+**Code:** [File Handling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/filehandling)
