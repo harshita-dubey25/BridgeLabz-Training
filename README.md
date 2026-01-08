@@ -7,7 +7,7 @@
 > Studied Linked List  
 > Solved problems based on linked list  
 
-**Code:** [Linked List]()
+**Code:** [Linked List](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/linkedlist)
 
 ### Day 2 – Stack, Queue, Hashmap and Hashing Function  
 **Date:** 03 Jan 2026
