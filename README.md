@@ -89,7 +89,7 @@ BridgeLabz-Training/
   - Communication  between objects
 
 🔗 *Code Link:*  
-👉 [Object Modeling, Class Diagram]()
+👉 [Object Modeling, Class Diagram](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
 ---
 
