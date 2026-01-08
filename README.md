@@ -136,15 +136,15 @@ BridgeLabz-Training/
   - Smart Home Automation System
 
 🔗 *Code Link:*  
-👉 [Hospital Patient Management System]()
+👉 [Hospital Patient Management System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation/HospitalManagement)
 
-👉 [Vehicle Rental Application]()
+👉 [Vehicle Rental Application](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/rentalapplication)
 
-👉 [University Course Enrollment System]()
+👉 [University Course Enrollment System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/universityenrollment)
 
-👉 [E-Wallet Application]()
+👉 [E-Wallet Application](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/ewallet)
 
-👉 [Smart Home Automation System]()
+👉 [Smart Home Automation System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/smarthome)
 
 ---
 
@@ -156,9 +156,9 @@ BridgeLabz-Training/
   - MyBank – Managing Customer Accounts
 
 🔗 *Code Link:*  
-👉 [CabbyGo]()
+👉 [CabbyGo](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/rentalhailing)
 
-👉 [MyBank]()
+👉 [MyBank](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/bank)
 
 ---
 
@@ -170,9 +170,9 @@ BridgeLabz-Training/
   - SwiftCart – The Grocery Shopping App
 
 🔗 *Code Link:*  
-👉 [CampusConnect]()
+👉 [CampusConnect](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/campusconnect)
 
-👉 [SwiftCart]()
+👉 [SwiftCart](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/swiftcart)
 
 ---
 
