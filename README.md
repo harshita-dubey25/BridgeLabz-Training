@@ -30,7 +30,7 @@
 > Solved questions based on various algorithms  
 > Pushed codes to GitHub  
 
-**Code:** [Sorting Algorithms]()
+**Code:** [Sorting Algorithms](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/sorting)
 
 ### Day 4 – String, Searching, and File Handling  
 **Date:** 06 Jan 2026
