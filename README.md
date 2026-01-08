@@ -106,7 +106,7 @@ BridgeLabz-Training/
   - Access Modifiers and Inheritance
  
 🔗 *Code Link:*  
-👉 [Inheritance & Access Modifiers]()
+👉 [Inheritance & Access Modifiers](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ---
 
