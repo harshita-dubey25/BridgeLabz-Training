@@ -170,9 +170,9 @@ BridgeLabz-Training/
   - SwiftCart – The Grocery Shopping App
 
 🔗 *Code Link:*  
-👉 [CampusConnect]()
+👉 [CampusConnect](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/campusconnect)
 
-👉 [SwiftCart]()
+👉 [SwiftCart](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/swiftcart)
 
 ---
 
