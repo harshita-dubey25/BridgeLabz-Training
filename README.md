@@ -51,7 +51,7 @@ BridgeLabz-Training/
 - Understood the uasage of static keyword
 
 🔗 *Code Link:*  
-👉 [Constructor and Access Modifiers]()
+👉 [Constructor and Access Modifiers](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/contructorandinstancevariables/level1)
 
 ---
 
@@ -75,7 +75,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 4 – Object Modeling, Class Diagram
+### 🗓 Day 4 – Object Modeling, Class Diagram
 *(Date: 29-Dec-2025)*
 
 - Classes vs. Objects in Java
@@ -93,7 +93,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 5 – Inheritance & Access Modifiers
+### 🗓 Day 5 – Inheritance & Access Modifiers
 *(Date: 31-Dec-2025)*
 
 - Inheritance
@@ -110,7 +110,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
+### 🗓 Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism
 *(Date: 01-Jan-2026)*
 
 - Studied the concepts of Encapsulation
