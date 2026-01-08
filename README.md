@@ -119,7 +119,7 @@ BridgeLabz-Training/
 - Studied Polymorphism
 
 🔗 *Code Link:*  
-👉 [Encapsulation, Interface, Abstract Classes, and Polymorphism]()
+👉 [Encapsulation, Interface, Abstract Classes, and Polymorphism](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/polymorphismandencapsulation)
 
 ---
 
