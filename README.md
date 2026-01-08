@@ -47,3 +47,12 @@
 **Code:** [String](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/string)
 
 **Code:** [File Handling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/filehandling)
+
+### Day 5 – Runtime Analysis and Big O Notation  
+**Date:** 07 Jan 2026
+
+> Studied different time complexities.  
+> Solved questions to compare different algorithms.  
+> Pushed codes to GitHub.
+
+**Code:** [Runtime Analysis]()
