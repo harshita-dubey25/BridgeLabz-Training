@@ -156,9 +156,9 @@ BridgeLabz-Training/
   - MyBank – Managing Customer Accounts
 
 🔗 *Code Link:*  
-👉 [CabbyGo]()
+👉 [CabbyGo](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/rentalhailing)
 
-👉 [MyBank]()
+👉 [MyBank](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/bank)
 
 ---
 
