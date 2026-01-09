@@ -190,9 +190,9 @@ BridgeLabz-Training/
 
 👉 [FitTrack](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/workout)
 
-👉[PetPal](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/petpal)
+👉 [PetPal](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/petpal)
 
-👉[EventEase](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/eventease)
+👉 [EventEase](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/eventease)
 
 ---
 
@@ -205,11 +205,11 @@ BridgeLabz-Training/
   - ParkEase – Smart Parking Management System
 
 🔗 *Code Link:*  
-👉 [LoanBuddy]()
+👉 [LoanBuddy](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/loanbuddy)
 
-👉 [BookBazaar]()
+👉 [BookBazaar](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/bookbazar)
 
-👉 [ParkEase]()
+👉 [ParkEase](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/ParkEase)
 
 ---
 
