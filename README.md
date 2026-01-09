@@ -186,13 +186,13 @@ BridgeLabz-Training/
   - EventEase – Event Management Platform
 
 🔗 *Code Link:*  
-👉 [EduMentor]()
+👉 [EduMentor](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/edumentor)
 
-👉 [FitTrack]()
+👉 [FitTrack](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/workout)
 
-👉[PetPal]()
+👉[PetPal](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/petpal)
 
-👉[EventEase]()
+👉[EventEase](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/eventease)
 
 ---
 
