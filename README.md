@@ -221,8 +221,8 @@ BridgeLabz-Training/
   - TourMate – Travel Itinerary Planner
 
 🔗 *Code Link:*  
-👉 [MediStore]()
+👉 [MediStore](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/MediStore)
 
-👉 [TourMate]()
+👉 [TourMate](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/tourmate)
 
 ---
