@@ -1,7 +1,5 @@
 package tourmate;
 
-package com.oops.tourMate;
-
 public abstract class Trip {
     protected String destination;
     protected int duration;

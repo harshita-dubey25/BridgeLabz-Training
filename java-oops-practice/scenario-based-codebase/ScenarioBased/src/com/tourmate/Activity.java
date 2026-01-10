@@ -1,4 +1,4 @@
-package com.oops.tourMate;
+package tourmate;
 
 public class Activity implements IBookable {
     private double cost;
