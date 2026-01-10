@@ -226,3 +226,22 @@ BridgeLabz-Training/
 👉 [TourMate](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/tourmate)
 
 ---
+
+## 📅 Week 3: Object Oriented Programming Fundamentals
+
+### 🗓 Day 1 – OOPS Scenario-Based Problem Solving
+*(Date: 09-Jan-2026)*
+
+- Solved 5 oops scenario based problems
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+🔗 *Code Link:*  
+👉 [Artify](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/artify)
+
+👉 [FoodLoop](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops/foodloop)
+
+👉 [SkillForge](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/skillforge)
+
+---
