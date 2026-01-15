@@ -66,7 +66,7 @@ public class AmbulanceRoute {
             System.out.print("Enter choice: ");
 
             int choice = sc.nextInt();
-            sc.nextLine(); // consume newline
+            sc.nextLine(); 
 
             switch (choice) {
                 case 1:

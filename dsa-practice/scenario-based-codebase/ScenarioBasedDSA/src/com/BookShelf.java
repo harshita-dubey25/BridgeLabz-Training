@@ -72,7 +72,7 @@ public class BookShelf {
     		case 1:
     			System.out.print("Genre Name: ");
     			String genre = input.next();
-    			//input.nextLine();
+    			input.nextLine();
     			System.out.print("Book Name: ");
     			String name = input.nextLine();
     			addBook(genre,name);
@@ -98,17 +98,6 @@ public class BookShelf {
     		System.out.println("Do you want to continue?\nType yes/no.");
     		option = input.next();
     	}while (option.equals("yes"));
-
-       // addBook("Fiction", "The Alchemist");
-      //  addBook("Fiction", "1984");
-       // addBook("Programming", "Clean Code");
-       // addBook("Fiction", "The Alchemist"); // Duplicate
-
-      //  displayCatalog();
-
-      //  borrowBook("Fiction", "1984");
-
-       // displayCatalog();
-     //   showBookHistory();
+       
     }
 }
