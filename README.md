@@ -58,9 +58,9 @@
 **Code:** [Runtime Analysis](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/runtimeanalysis)
 
 
-## Week 4 – Scanario Based Problems
+## Week 4 – Scenario Based Problems
 
-### Day 1 – DSA based Scenario-based Questions  
+### Day 1 – DSA Scenario-based Questions  
 **Date:** 10 Jan 2026
 
 > Studied Linked List, Stack and HashMap in collection framework.               
@@ -70,4 +70,18 @@
 
 **Code:** [Browser Buddy](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/BrowserBuddy.java)   
 
-**Code:** [Ambulance Route](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/AmbulanceRoute.java)                    
+**Code:** [Ambulance Route](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/AmbulanceRoute.java)    
+
+### Day 2 – DSA Scenario-based Questions  
+**Date:** 12 Jan 2026
+
+> Studied Linked List, Stack, Queue and HashMap in collection framework.               
+> Solved problems based on dsa using collection framework.
+
+**Code:** [Call Center](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CallCenter.java)
+
+**Code:** [Text Editor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TextEditor.java)
+
+**Code:** [Traffic Manager](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrafficManager.java)
+
+**Code:** [Train Companion](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrainCompanion.java)
