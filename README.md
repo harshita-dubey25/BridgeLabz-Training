@@ -9,6 +9,8 @@
 
 **Code:** [Linked List](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/linkedlist)
 
+---
+
 ### Day 2 – Stack, Queue, Hashmap and Hashing Function  
 **Date:** 03 Jan 2026
 
@@ -23,6 +25,8 @@
 
 **Code:** [Hash map](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/hashmap)
 
+---
+
 ### Day 3 – Sorting Algorithms  
 **Date:** 05 Jan 2026
 
@@ -31,6 +35,8 @@
 > Pushed codes to GitHub  
 
 **Code:** [Sorting Algorithms](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/sorting)
+
+---
 
 ### Day 4 – String, Searching, and File Handling  
 **Date:** 06 Jan 2026
@@ -48,6 +54,8 @@
 
 **Code:** [File Handling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/filehandling)
 
+---
+
 ### Day 5 – Runtime Analysis and Big O Notation  
 **Date:** 07 Jan 2026
 
@@ -57,6 +65,7 @@
 
 **Code:** [Runtime Analysis](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DataStructure/src/com/runtimeanalysis)
 
+---
 
 ## Week 4 – Scenario Based Problems
 
@@ -72,6 +81,8 @@
 
 **Code:** [Ambulance Route](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/AmbulanceRoute.java)    
 
+---
+
 ### Day 2 – DSA Scenario-based Questions  
 **Date:** 12 Jan 2026
 
@@ -85,3 +96,19 @@
 **Code:** [Traffic Manager](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrafficManager.java)
 
 **Code:** [Train Companion](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrainCompanion.java)
+
+---
+
+### Day 3 – DSA Scenario-based Questions  
+**Date:** 13 Jan 2026
+
+> Studied Linked List, Stack, Queue and HashMap in collection framework.               
+> Solved problems based on dsa using collection framework.
+
+**Code:** [SmartCheckout](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/SmartCheckout.java)
+
+**Code:** [ParcelTracker](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ParcelTracker.java)
+
+**Code:** [ExamProctor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamProctor.java)
+
+---
