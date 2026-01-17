@@ -5,16 +5,13 @@ import java.util.ListIterator;
 
 public class TrainCompanion {
 
-    // Doubly Linked List of compartments
     private LinkedList<String> compartments = new LinkedList<>();
 
-    // Add compartment at end
     public void addCompartment(String name) {
         compartments.add(name);
         System.out.println(name + " compartment added.");
     }
 
-    // Remove a compartment
     public void removeCompartment(String name) {
         if (compartments.remove(name)) {
             System.out.println(name + " compartment removed.");
@@ -22,8 +19,7 @@ public class TrainCompanion {
             System.out.println("Compartment not found.");
         }
     }
-
-    // Traverse forward
+    
     public void traverseForward() {
         System.out.println("\nForward Traversal:");
         for (String comp : compartments) {
@@ -32,7 +28,6 @@ public class TrainCompanion {
         System.out.println("END");
     }
 
-    // Traverse backward
     public void traverseBackward() {
         System.out.println("\nBackward Traversal:");
         ListIterator<String> iterator = compartments.listIterator(compartments.size());
@@ -42,7 +37,6 @@ public class TrainCompanion {
         System.out.println("START");
     }
 
-    // Show adjacent compartments
     public void showAdjacent(String current) {
         int index = compartments.indexOf(current);
 
@@ -59,7 +53,6 @@ public class TrainCompanion {
         System.out.println("Next Compartment: " + next);
     }
 
-    // Main method
     public static void main(String[] args) {
         TrainCompanion train = new TrainCompanion();
 
