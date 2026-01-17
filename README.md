@@ -123,7 +123,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 3: Object Oriented Programming Fundamentals
+## 📅 Week 3: Object Oriented Programming Scenario Based
 
 ### 🗓 Day 1 – OOPS Scenario-Based Problem Solving
 *(Date: 02-Jan-2026)*
@@ -227,7 +227,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 3: Object Oriented Programming Fundamentals
+## 📅 Week 3: Object Oriented Programming scenarios based
 
 ### 🗓 Day 1 – OOPS Scenario-Based Problem Solving
 *(Date: 09-Jan-2026)*
@@ -243,5 +243,22 @@ BridgeLabz-Training/
 👉 [FoodLoop](https://github.com/nageshwarpatel7/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/scenariobasedpractice/src/com/oops/foodloop)
 
 👉 [SkillForge](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/skillforge)
+
+---
+
+### 🗓 Day 2 – OOPS Scenario-Based Problem Solving
+*(Date: 12-Jan-2026)*
+
+- Solved 3 oops scenario based problems
+  - HomeNest – Smart Home Device Manager
+  - BudgetWise – Personal Finance Tracker
+  - GameBox – Mobile Game Distribution Platform
+
+🔗 *Code Link:*  
+👉 [Home Nest](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/homenest)
+
+👉 [Budget Wise](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/budgetwise)
+
+👉 [Game Box](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/gamebox)
 
 ---
