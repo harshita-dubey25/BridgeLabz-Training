@@ -262,3 +262,18 @@ BridgeLabz-Training/
 👉 [Game Box](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/gamebox)
 
 ---
+
+### 🗓 Day 3 – OOPS Scenario-Based Problem Solving
+*(Date: 13-Jan-2026)*
+
+- Solved 2 oops scenario based problems
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary - Birds Acticity Management System
+  
+🔗 *Code Link:*  
+👉 [PayXpress](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/payXpress)
+
+👉 [Bird Sanctuary](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/birdSanctuary)
+
+---
+
