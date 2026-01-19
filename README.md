@@ -112,3 +112,21 @@
 **Code:** [ExamProctor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamProctor.java)
 
 ---
+
+### Day 4 – DSA Scenario-based Questions  
+**Date:** 15 Jan 2026
+
+> Studied Insertion, Bubble, Quick, and Merge sort techniques.               
+> Solved problems based on dsa using sorting algorithms.
+
+**Code:** [HospitalQueue](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/HospitalQueue.java)
+
+**Code:** [SmartShelf](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/SmartShelf.java)
+
+**Code:** [ZipZipMart](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ZipZipMart.java)
+
+**Code:** [EventManager](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/EventManager.java)
+
+**Code:** [ExamCell](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamCell.java)
+
+---
