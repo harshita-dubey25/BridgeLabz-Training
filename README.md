@@ -28,6 +28,6 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 
-👉 [Generics]()
+👉 [Generics](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/generics)
 
 ---
