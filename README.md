@@ -130,3 +130,17 @@
 **Code:** [ExamCell](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamCell.java)
 
 ---
+
+### Day 5 – DSA Scenario-based Questions  
+**Date:** 16 Jan 2026
+
+> Studied Insertion, Bubble, Quick, and Merge sort techniques.               
+> Solved problems based on dsa using sorting algorithms.
+
+**Code:** [RoboWarehouse](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/RoboWareHouse.java)
+
+**Code:** [CinemaHouse](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CinemaHouse.java)
+
+**Code:** [CropMonitor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CropMonitor.java)
+
+---
