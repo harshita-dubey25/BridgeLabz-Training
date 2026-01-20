@@ -18,7 +18,6 @@ public class Subsets {
 		
 		s2.add(3);
 		s2.add(5);
-		s2.add(7);
 		
 		Set<Integer> s3 = new HashSet<>(s1);
 		s3.retainAll(s2);
