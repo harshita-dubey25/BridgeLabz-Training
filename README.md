@@ -31,3 +31,23 @@ BridgeLabz-Training/
 👉 [Generics](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/generics)
 
 ---
+
+### 🗓 Day 2 – Java Collections Problem Solving  
+*(Date: 16-Jan-2026)*
+
+- Learned Set, List, Stack, Queue
+- Learned Hashmaps and Hashing
+- Solved scenario based questions on collections
+- Pushed files in the respective folder set-up
+
+🔗 *Code Link:*  
+
+👉 [Set](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems/SetInterface)
+
+👉 [List](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems/ListInterface)
+
+👉 [Map](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems/MapInterface)
+
+👉 [Queue](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems/QueueInterface)
+
+---
