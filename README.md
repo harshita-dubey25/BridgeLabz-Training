@@ -277,3 +277,16 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 4 – OOPS Scenario-Based Problem Solving
+*(Date: 17-Jan-2026)*
+
+- Solved 2 oops scenario based problems
+  - GeoMeasure – Comparison of Lines
+  - Bag-n-Ball Organizer - Organize different balls in different bags
+  
+🔗 *Code Link:*  
+👉 [Geo Measure](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/geomeasure)
+
+👉 [Bag-n-Ball](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/BagNBall)
+
+---
