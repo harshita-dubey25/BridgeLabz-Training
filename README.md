@@ -137,7 +137,7 @@
 > Studied Insertion, Bubble, Quick, and Merge sort techniques.               
 > Solved problems based on dsa using sorting algorithms.
 
-**Code:** [RoboWarehouse](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/RoboWareHouse.java)
+**Code:** [RoboWarehous](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/RoboWareHouse.java)
 
 **Code:** [CinemaHouse](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CinemaHouse.java)
 
@@ -158,5 +158,21 @@
 **Code:** [Ice Cream Rush](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/IceCreamRush.java)
 
 **Code:** [Smart Library](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/SmartLibrary.java)
+
+---
+
+## Week 5 – Scenario Based Problems
+
+### Day 1 – DSA Scenario-based Questions  
+**Date:** 18 Jan 2026
+
+> Studied Sorting algorithms.               
+> Solved problems based on dsa using sorting algorithms.
+
+**Code:** [Edu Results](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/EduResults.java)   
+
+**Code:** [Flash Dealz](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FlashDealz.java)   
+
+**Code:** [Fitness Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FitnessTracker.java)   
 
 ---
