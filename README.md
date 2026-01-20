@@ -144,3 +144,19 @@
 **Code:** [CropMonitor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CropMonitor.java)
 
 ---
+
+### Day 6 – DSA Scenario-based Questions  
+**Date:** 17 Jan 2026
+
+> Studied Insertion, Bubble, Quick, and Merge sort techniques.               
+> Solved problems based on dsa using sorting algorithms.
+
+**Code:** [Art Expo](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ArtExpo.java)
+
+**Code:** [Fleet Manager](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FleetManager.java)
+
+**Code:** [Ice Cream Rush](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/IceCreamRush.java)
+
+**Code:** [Smart Library](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/SmartLibrary.java)
+
+---
