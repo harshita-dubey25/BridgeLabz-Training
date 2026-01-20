@@ -19,7 +19,6 @@ class Vehicle {
 
 public class FleetManager {
 
-    // Merge two sorted vehicle lists
     private static List<Vehicle> merge(List<Vehicle> a, List<Vehicle> b) {
         List<Vehicle> result = new ArrayList<>();
         int i = 0, j = 0;
@@ -38,7 +37,6 @@ public class FleetManager {
         return result;
     }
 
-    // Merge multiple sorted depot lists
     public static List<Vehicle> mergeAllDepots(List<List<Vehicle>> depots) {
         while (depots.size() > 1) {
             List<Vehicle> first = depots.remove(0);
