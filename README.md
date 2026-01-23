@@ -227,7 +227,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 3: Object Oriented Programming scenarios based
+## 📅 Week 4: Object Oriented Programming scenarios based
 
 ### 🗓 Day 1 – OOPS Scenario-Based Problem Solving
 *(Date: 09-Jan-2026)*
@@ -288,5 +288,16 @@ BridgeLabz-Training/
 👉 [Geo Measure](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/geomeasure)
 
 👉 [Bag-n-Ball](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/BagNBall)
+
+---
+
+### 🗓 Day 5 – OOPS Scenario-Based Problem Solving
+*(Date: 19-Jan-2026)*
+
+- Solved 1 oops scenario based problems
+  - Address Book System – Handling contacts and addresses
+  
+🔗 *Code Link:*  
+👉 [Address Book System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/addressBookSystem)
 
 ---
