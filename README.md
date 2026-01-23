@@ -164,7 +164,7 @@
 ## Week 5 – Scenario Based Problems
 
 ### Day 1 – DSA Scenario-based Questions  
-**Date:** 18 Jan 2026
+**Date:** 19 Jan 2026
 
 > Studied Sorting algorithms.               
 > Solved problems based on dsa using sorting algorithms.
@@ -174,5 +174,19 @@
 **Code:** [Flash Dealz](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FlashDealz.java)   
 
 **Code:** [Fitness Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FitnessTracker.java)   
+
+---
+
+### Day 2 – DSA Scenario-based Questions  
+**Date:** 20 Jan 2026
+
+> Studied Sorting algorithms.               
+> Solved problems based on dsa using sorting algorithms.
+
+**Code:** [Movie Time](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/MovieTime.java)   
+
+**Code:** [Food Fest](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/FoodFest.java)   
+
+**Code:** [Gamer Zone](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/GamerZone.java)   
 
 ---
