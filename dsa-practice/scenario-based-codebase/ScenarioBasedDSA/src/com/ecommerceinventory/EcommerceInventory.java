@@ -17,7 +17,7 @@ public class EcommerceInventory {
 
         System.out.println("\nUpdating price of SKU 3001...");
         inventory.updatePrice(3001, 900);
-
+1
         System.out.println("\nProduct List (Sorted by SKU):");
         inventory.inorder(inventory.root);
     }
