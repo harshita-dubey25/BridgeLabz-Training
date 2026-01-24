@@ -190,3 +190,22 @@
 **Code:** [Gamer Zone](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/GamerZone.java)   
 
 ---
+
+### Day 3 – DSA Scenario-based Questions  
+**Date:** 21 Jan 2026
+
+> Studied Sorting algorithms.
+> Studied Binary Search Tree             
+> Solved problems based on dsa using sorting algorithms and BST.
+
+**Code:** [Tailor Shop](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TailorShop.java)   
+
+**Code:** [Medware House](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/MedwareHouse.java)   
+
+**Code:** [University Record System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/universityrecord)   
+
+**Code:** [E-commerce Inventory System](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ecommerceinventory)   
+
+**Code:** [Music App](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/musicapp)   
+
+---
