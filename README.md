@@ -209,3 +209,17 @@
 **Code:** [Music App](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/musicapp)   
 
 ---
+
+### Day 4 – DSA Scenario-based Questions  
+**Date:** 22 Jan 2026
+
+> Studied AVL Tree             
+> Solved problems based on AVL trees.
+
+**Code:** [Gaming App](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/gamingapp)   
+
+**Code:** [Ticket Booking](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ticketbookingSystem)   
+
+**Code:** [Hospital Queue Mangement](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/hospitalqueuemanagement)   
+
+---
