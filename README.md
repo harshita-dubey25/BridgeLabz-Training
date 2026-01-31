@@ -51,3 +51,15 @@ BridgeLabz-Training/
 👉 [Queue](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems/QueueInterface)
 
 ---
+
+### 🗓 Day 3 – Java Streams  
+*(Date: 19-Jan-2026)*
+
+- Learned File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer
+- Solbed Questions on Streams
+
+🔗 *Code Link:*  
+
+👉 [Streams](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/streams)
+
+---
