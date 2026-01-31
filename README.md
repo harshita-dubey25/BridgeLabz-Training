@@ -63,3 +63,16 @@ BridgeLabz-Training/
 👉 [Streams](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/streams)
 
 ---
+
+### 🗓 Day 4 – Exception Handling 
+*(Date: 21-Jan-2026)*
+
+- Learned Checked, Unchecked, and Custom Exceptions in java
+- Learned exception handling using try, catch, and finally block
+- Solved questions based on exception handling
+
+🔗 *Code Link:*  
+
+👉 [Exception](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/exceptionhandling)
+
+---
