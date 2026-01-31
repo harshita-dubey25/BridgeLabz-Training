@@ -65,7 +65,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 4 – Exception Handling 
-*(Date: 21-Jan-2026)*
+*(Date: 20-Jan-2026)*
 
 - Learned Checked, Unchecked, and Custom Exceptions in java
 - Learned exception handling using try, catch, and finally block
@@ -74,5 +74,20 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 
 👉 [Exception](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/exceptionhandling)
+
+---
+
+### 🗓 Day 5 – Regex and Junit
+*(Date: 21-Jan-2026)*
+
+- Learned Regular Expressions in java
+- Learned testing in Junit
+- Solved questions based on regex and Junit
+
+🔗 *Code Link:*  
+
+👉 [Regex](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/regex)
+
+👉 [Junit](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/Junit/src)
 
 ---
