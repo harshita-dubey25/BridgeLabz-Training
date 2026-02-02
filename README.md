@@ -325,3 +325,14 @@ BridgeLabz-Training/
 [BookBazar](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/bookbazar) 
 
 ---
+
+### Day 2 – Solved scenario-based question on Oops  
+**Date:** 08 Jan 2026
+
+> Revised oops concepts and solved questions
+
+[Tourmate](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/tourmate)
+
+[Medistore](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/MediStore) 
+
+---
