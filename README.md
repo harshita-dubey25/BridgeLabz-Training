@@ -91,3 +91,18 @@ BridgeLabz-Training/
 👉 [Junit](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/Junit/src)
 
 ---
+
+### 🗓 Day 6 – Annotation and Reflection
+*(Date: 22-Jan-2026)*
+
+- Learned Annotations and custom annotations
+- Learned reflection in java
+- Solved questions based on annotation and reflections
+
+🔗 *Code Link:*  
+
+👉 [Annotation](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/annotation)
+
+👉 [Reflection](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/reflection)
+
+---
