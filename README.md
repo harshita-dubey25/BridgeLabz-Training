@@ -353,7 +353,7 @@ BridgeLabz-Training/
 ### Day 4 – Solved scenario-based questions on DSA
 **Date:** 10 Jan 2026
 
-> Revised oops concepts and solved questions
+> Revised dsa concepts and solved questions
 
 [Bookshelf](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/BookShelf.java)
 
@@ -363,15 +363,25 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5 – Solved scenario-based questions on DSA
+### Day 5 – Solved scenario-based questions on DSA and OOPS
 **Date:** 12 Jan 2026
 
-> Revised oops concepts and solved questions
+> Revised dsa concepts and solved questions
 
 [Text Editor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TextEditor.java)
 
 [Call Center](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CallCenter.java) 
 
 [Train Companion](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrainCompanion.java)
+
+[Traffic Manager](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrafficManager.java)
+
+> Revised oops concepts and solved questions
+
+[Home Nest](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/homenest)
+
+[Budget Wise](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/budgetwise)
+
+[Game Box](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/gamebox)
 
 ---
