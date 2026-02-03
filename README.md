@@ -313,7 +313,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 4 – Data Structure and Algorithms
+## Week 4 – Scneario Based Problem solving
 
 ### Day 1 – Solved scenario-based question on Oops  
 **Date:** 07 Jan 2026
@@ -347,5 +347,18 @@ BridgeLabz-Training/
 [FoodLoop](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/foodloop) 
 
 [Skillforge](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/skillforge)
+
+---
+
+### Day 4 – Solved scenario-based questions on DSA
+**Date:** 10 Jan 2026
+
+> Revised oops concepts and solved questions
+
+[Bookshelf](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/BookShelf.java)
+
+[BrowserBuddy](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/BrowserBuddy.java) 
+
+[AmbulanceRoute](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/AmbulanceRoute.java)
 
 ---
