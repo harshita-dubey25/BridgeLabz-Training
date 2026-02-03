@@ -397,4 +397,10 @@ BridgeLabz-Training/
 
 [Exam Proctor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamProctor.java)
 
+> Revised oops concepts and solved questions
+
+[Bird Sanctuary](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/birdSanctuary)
+
+[PayXpress](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/payXpress)
+
 ---
