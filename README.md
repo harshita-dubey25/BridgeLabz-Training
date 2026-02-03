@@ -148,3 +148,20 @@ BridgeLabz-Training/
 👉 [Deal Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/dealtracker)
 
 ---
+
+### 🗓 Day 3 – Problems on Annotation, Reflection, Json and CSV
+*(Date: 27-Jan-2026)*
+
+- Learned Annotation and Reflection
+- Learned CSV and Json data handling
+- Solved questions based on annotation, reflection, json and csv handling
+
+🔗 *Code Link:*
+
+👉 [Health Check Pro](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/healthcheckpro)
+
+👉 [Mark Mate](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/markmate)
+
+👉 [Event Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/eventtracker)
+
+---
