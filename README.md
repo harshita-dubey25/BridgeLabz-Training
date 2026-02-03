@@ -24,3 +24,18 @@
 
 ---
 
+### 🗓 Day 2 – JSON Data Handling in Java  
+**(Date: 24-Jan-2026)**
+- Studied JSON fundamentals and structure.
+- Created JSON objects and arrays using popular libraries.
+- Converted Java objects to JSON and vice versa.
+- Parsed JSON dynamically.
+- Read and wrote JSON files.
+- Validated JSON structure using schemas.
+- Practiced filtering, merging, and transforming JSON data.
+- Solved hands-on problems.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [JSON Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+---
