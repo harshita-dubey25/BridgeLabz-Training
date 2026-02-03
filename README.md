@@ -385,3 +385,16 @@ BridgeLabz-Training/
 [Game Box](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/gamebox)
 
 ---
+
+### Day6 – Solved scenario-based questions on DSA 
+**Date:** 13 Jan 2026
+
+> Revised dsa concepts and solved questions
+
+[Smart checkout](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/SmartCheckout.java)
+
+[Parcel Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ParcelTracker.java) 
+
+[Exam Proctor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/ExamProctor.java)
+
+---
