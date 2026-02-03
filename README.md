@@ -362,3 +362,16 @@ BridgeLabz-Training/
 [AmbulanceRoute](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/AmbulanceRoute.java)
 
 ---
+
+### Day 5 – Solved scenario-based questions on DSA
+**Date:** 12 Jan 2026
+
+> Revised oops concepts and solved questions
+
+[Text Editor](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TextEditor.java)
+
+[Call Center](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/CallCenter.java) 
+
+[Train Companion](https://github.com/harshita-dubey25/BridgeLabz-Training/blob/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com/TrainCompanion.java)
+
+---
