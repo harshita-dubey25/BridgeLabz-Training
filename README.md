@@ -336,3 +336,16 @@ BridgeLabz-Training/
 [Medistore](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/MediStore) 
 
 ---
+
+### Day 3 – Solved scenario-based question on Oops  
+**Date:** 09 Jan 2026
+
+> Revised oops concepts and solved questions
+
+[Artify](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/artify)
+
+[FoodLoop](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/foodloop) 
+
+[Skillforge](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/skillforge)
+
+---
