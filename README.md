@@ -106,3 +106,43 @@ BridgeLabz-Training/
 👉 [Reflection](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/reflection)
 
 ---
+
+## 📅 Week 5: Java Collection Framework Scenario Based Problem Solving
+
+### 🗓 Day 1 – Problems on Regexs, Generics, Iostreams and Collections
+*(Date: 22-Jan-2026)*
+
+- Learned regex, generics, iostreams
+- Solved questions based on collections, regex, generics and iostreams
+
+🔗 *Code Link:*
+
+👉 [Resume Analyzer](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/resumeanalyzer)
+
+👉 [Travel Log](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/travellog)
+
+👉 [Feedback Guru](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/feedbackguru)
+
+👉 [Code Repo Cleaner](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/coderepocleaner)
+
+👉 [Exam Scanner](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/examscanner)
+
+---
+
+### 🗓 Day 2 – Problems on Regexs, Generics, Iostreams and Collections
+*(Date: 22-Jan-2026)*
+
+- Learned regex, generics, iostreams
+- Solved questions based on collections, regex, generics and iostreams
+
+🔗 *Code Link:*
+
+👉 [Resume Analyzer]()
+
+👉 [Travel Log]()
+
+👉 [Feedback Guru]()
+
+👉 [Code Repo Cleaner]()
+
+👉 [Exam Scanner]()
