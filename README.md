@@ -110,7 +110,7 @@ BridgeLabz-Training/
 ## 📅 Week 5: Java Collection Framework Scenario Based Problem Solving
 
 ### 🗓 Day 1 – Problems on Regexs, Generics, Iostreams and Collections
-*(Date: 22-Jan-2026)*
+*(Date: 23-Jan-2026)*
 
 - Learned regex, generics, iostreams
 - Solved questions based on collections, regex, generics and iostreams
@@ -130,19 +130,21 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 2 – Problems on Regexs, Generics, Iostreams and Collections
-*(Date: 22-Jan-2026)*
+*(Date: 24-Jan-2026)*
 
 - Learned regex, generics, iostreams
 - Solved questions based on collections, regex, generics and iostreams
 
 🔗 *Code Link:*
 
-👉 [Resume Analyzer]()
+👉 [Med Inventory](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/medinventory)
 
-👉 [Travel Log]()
+👉 [Chat log Parser](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/chatlogparser)
 
-👉 [Feedback Guru]()
+👉 [Song Vault](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/songvault)
 
-👉 [Code Repo Cleaner]()
+👉 [Exam Result Uploader](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/examresultuploader)
 
-👉 [Exam Scanner]()
+👉 [Deal Tracker](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src/dealtracker)
+
+---
