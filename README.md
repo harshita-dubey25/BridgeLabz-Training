@@ -52,6 +52,6 @@
 - Logged execution timing and validated results using test cases.
 - Committed and pushed all work.
 - 🔗 **Code Link:**  
-👉 [Multithreading](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+👉 [Multithreading](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignPatterns/src/multithreading)
 
 ---
