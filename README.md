@@ -404,3 +404,290 @@ BridgeLabz-Training/
 [PayXpress](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com/payXpress)
 
 ---
+
+### Day 7 – DSA Scenario Based Problem Solving
+**Date:** 15 Jan 2026
+
+> Sorting Scenario Based Problem Solving
+ - HospitalQueue – Patient Sorting by Criticality
+ - SmartShelf – Real-Time Book Arrangement 
+ - ZipZipMart – Daily Sales Summary Report
+ - EventManager – Ticket Price Optimizer
+ - ExamCell – Student Rank Generator 
+
+[Sorting Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+---
+
+## Week 5 – Scneario Based Problem solving and Collection Framework
+
+### Day 1 – Collections, Sorting Scenario Based Problems
+**Date:** 16-Jan-2026
+
+> Overview of Collections Framework
+> - Hierarchy of Collections Framework
+> - List Interface and Implementing Classes
+> - Set Interface and Implementing Classes
+
+[Collections](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/collectionsproblems)
+
+> Solved Sorting Scenario Based Problems
+  > - RoboWarehouse – Shelf Loading Robot
+  > - CinemaHouse – Movie Time Sorting
+  > - CropMonitor – Sensor Data Ordering
+
+[Sorting Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+---
+
+### Day 2 – OOPS, Sorting Scenario Based Problems
+**Date:** 17-Jan-2026
+
+> Solved Sorting Scenario Based Problems
+  > - ArtExpo – Sort Artists by Registration Time
+  > -  FleetManager – Vehicle Maintenance Scheduler
+  > - IceCreamRush – Sorting Flavors by Popularity
+  > - SmartLibrary – Auto-Sort Borrowed Books
+[Sorting Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+ 
+>  Solved OOPS Scenario Based Problems
+  > - GeoMeasure
+  > - Bag-n-Ball Organizer
+[OOPS Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com)
+
+---
+
+### Day 3 – OOPS, DSA Scenario Based Problems & Java Streams
+**Date:** 19-Jan-2026
+
+> Solved DSA Scenario Based Problems
+  > - EduResults – Rank Sheet Generator
+  > - FlashDealz – Product Sorting by Discount 
+  > - FitnessTracker – Daily Step Count Ranking
+
+[DSA Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+ 
+>  Solved OOPS Scenario Based Problems
+  > -Address Book System
+
+[OOPS Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBased/src/com)
+
+> Studied and implemented problems based on Streams
+
+[Java Streams](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/streams)
+
+---
+
+### Day 4 – DSA Scenario Based Problems & Java Streams
+**Date:** 20-Jan-2026
+
+> Solved Sorting Scenario Based Problems
+  > - MovieTime – Theater Show Listings
+  > - FoodFest – Sorting Stalls by Customer 
+  > - GamerZone – High Score Ranking System
+
+[DSA Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+> Studied and implemented problems based on Exception Handling
+  > - Types of Exceptions
+  > - Handling Exceptions
+  > - Creating Custom Exceptions
+
+[Exception Handling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/exceptionhandling)
+
+---
+
+### Day 5 – DSA Scenario Based Problems, Regex & JUnit
+**Date:** 21-Jan-2026
+
+> Solved Sorting Scenario Based Problems
+  > - TailorShop – Sorting Orders by Delivery Deadline
+  > - MedWarehouse – Sorting Medicines by Expiry 
+
+[Sorting Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+> Solved DSA Scenario Based Problems on BST
+  > - University's Digital Record System
+  > -  E-Commerce Product Inventory
+  > -  Music App - Organize Songs by Track ID
+
+[BST Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+> Studied and implemented problems based on Regex
+> Introduction to JUnit Framework
+  > - JUnit Annotations
+  > - Writing Test Cases
+  > - Structure of a Test Class
+
+[Regex](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/regex)
+
+[JUnit](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/Junit)
+
+---
+
+### Day 6 – DSA Scenario Based Problems, Annotations & Reflection
+**Date:** 22-Jan-2026
+
+> Solved DSA Scenario Based Problems on AVL
+  > - Gaming App - Real-Time Leaderboard
+  > - Online Ticket Booking by Time
+  > - Hospital Queue Management
+
+[AVL Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedDSA/src/com)
+
+> Studied and implemented problems based on Annotations
+  > - Common Built-in Annotations
+  > - Creating Custom Annotations
+  > - Advanced Custom Annotations
+
+> Reflection
+  > - Understanding of Reflection
+  > - Using Reflection in Java
+ 
+[Annotations](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/annotation)
+
+[Reflection](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collections/src/reflection)
+
+---
+
+## Week 6 – Scneario Based Problem solving on Collections and Java Iostreams
+
+### Day 1 – Collections Scenario Based Problems & CSV Data Handling
+**Date:** 23-Jan-2026
+
+> Solved Real-world scenario-based problems involving Collections, Generics
+  > - ResumeAnalyzer
+  > - TravelLog – Trip Organizer for Backpackers
+  > - FeedbackGuru – Smart Survey Analyzer
+  > - CodeRepoCleaner – Java File Scanner and Organizer
+  > -  ExamScanner – Digital Answer Sheet Validator 
+
+[Collections Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src)
+
+> Studied and implemented problems based on CSV Data Handling
+> - Introduction to CSV
+> - Reading CSV Files
+> - Writing CSV Files
+> - Parsing CSV Data
+
+[CSV Data Handling](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+
+---
+
+### Day 2 – JSON Data & Collections Scenario Based Problems Solving
+**Date:** 24-Jan-2026
+
+> Solved Real-world scenario-based problems involving Collections, Generics
+  > - MedInventory – Smart Hospital Inventory Tracker
+  > - ChatLogParser – Messaging Pattern Analyzer
+  > - SongVault – Personal Music Library Manager
+  > - ExamResultUploader – Bulk Marks Processing
+  > - DealTracker – E-Commerce Discount Validator
+
+[Collections Scenario Based](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src)
+
+> Studied and implemented problems based on JSON Data
+> - Introduction to JSON
+> - Reading JSON Data
+> - Writing JSON Data
+> - Parsing JSON Data
+
+[JSON Data](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+---
+
+### Day 3 – JSON Data Handling Scenario - Based Problem Solving
+**Date:** 27-Jan-2026
+
+>  HealthCheckPro – API Metadata Validator (Annotations + Reflection)
+>  MarkMate – Student Marksheet Generator (CSV + JSON)
+>  EventTracker – Auto Audit System (Annotations + Reflection + JSON)
+
+[Scenario Based Problems](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/scenario/src)
+
+---
+
+## Week 7 : Java 8 Programming Features
+
+### Day 1 – Lambda Expressions & Functional Interface
+**Date:** 27-Jan-2026
+
+> Solved problems using
+> - Lambda Expressions
+> - Method References
+> - Interfaces
+> - Functional Interfaces
+> - Static methods & default methods in interfaces
+
+[Lambda Expressions](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8programmingconcepts/src/com/lambdas)
+
+[Functional Interfaces](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8programmingconcepts/src/com/interfaces)
+
+---
+
+### Day 2 – Java Stream API & Collectors
+**Date:** 28-Jan-2026
+
+> Implemented problems based on Java Stream API
+
+> Studied & implemented intermediate operations
+> - filter()
+> - map()
+> - flatMap()
+> - distinct()
+> - sorted()
+> - peek()
+> - limit()
+> - skip()
+
+> Studied & implemented terminal operations
+> - collect
+> - forEach
+> - reduce
+> - count
+> - anyMatch
+> - allMatch
+> - noneMatch
+
+> Studied & implemented problems based on Collectors
+
+
+[Java Stream API](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8programmingconcepts/src/com/streams)
+
+[Collectors](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8programmingconcepts/src/com/collectors)
+
+[Workshop](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8programmingconcepts/src/com/workshop/smartcity)
+
+---
+
+## Week - 8 : Design Principles & Design Patterns
+
+### Day 1 – Design Principles & Design Patterns
+**Date:** 31-Jan-2026
+
+> Studied about different design principles
+> - Single Responsibility Principle (SRP)
+> - Open/Closed Principle (OCP)
+> - Liskov Substitution Principle (LSP)
+> - Interface Segregation Principle (ISP)
+> - Dependency Inversion Principle (DIP)
+> - Don't Repeat Yourself (DRY)
+> - Keep It Simple, Stupid (KISS)
+> - You Aren't Gonna Need It (YAGNI)
+
+> Introduction to GoF Design Pattern
+> Categories of Patterns (GoF classification)
+> - Singleton Pattern
+> - Factory Pattern
+> - Observer Pattern
+> - Builder Pattern
+> - UML Designing
+
+[Design Patterns](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignPatterns/src/designpattern/librarycasestudy)
+
+---
+
+## Day 2 - Multithreading
+**Date:** 2-Feb-2026
+
+>
