@@ -690,4 +690,16 @@ BridgeLabz-Training/
 ## Day 2 - Multithreading
 **Date:** 2-Feb-2026
 
->
+> Studied multithreading Concepts
+> - Thread Creation
+> - Thread Lifecycle and states
+> - Synchronization
+> - Inter thread communication
+> - Thread safety
+> - Executor framework
+> - Thread Pool
+> - Locks and concurrency utilities
+> - Deadlock, startvation and livelock
+> - Concurrent collections
+
+[Multithreading](https://github.com/harshita-dubey25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignPatterns/src/multithreading)
